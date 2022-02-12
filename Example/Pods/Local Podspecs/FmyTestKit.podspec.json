@@ -1,0 +1,22 @@
+{
+  "name": "FmyTestKit",
+  "version": "0.1.0",
+  "summary": "A short description of FmyTestKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xingweixin/FmyTestKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xingweixin": "xwx3135@126.com"
+  },
+  "source": {
+    "git": "https://github.com/xingweixin/FmyTestKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FmyTestKit/Classes/**/*"
+}

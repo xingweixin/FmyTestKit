@@ -1,0 +1,6 @@
+framework module Pods_FmyTestKit_Example {
+  umbrella header "Pods-FmyTestKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
