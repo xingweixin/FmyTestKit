@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'FmyTestKit_Example' do
+  pod 'FmyTestKit', :path => '../'
+
+  target 'FmyTestKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
